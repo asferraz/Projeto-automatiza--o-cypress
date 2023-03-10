@@ -1,0 +1,19 @@
+{
+  "name": "projeto-automatizacao-cypress",
+  "version": "1.0.0",
+  "description": "automação de projeto em cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asferraz/Projeto-teste-automatizado-Cypress.git"
+  },
+  "author": "Allan Silva Ferraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asferraz/Projeto-teste-automatizado-Cypress/issues"
+  },
+  "homepage": "https://github.com/asferraz/Projeto-teste-automatizado-Cypress#readme"
+}
