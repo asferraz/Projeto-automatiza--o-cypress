@@ -24,9 +24,8 @@ describe('Acessar site para testes automatizados', () => {
         cy.get('#Skills').select('Android');
        // cy.get('.select2-selection').type('Australia');
         cy.get('.select2-selection').type('Australia').type('{downArrow}').select('Australia');
+        //atualização
         
-        //cy.get('input[class="select2-results__option select2-results__option--highlighted"]').select('Australia')
-        //cy.get('#yearbox').select('1996');
     });
 
 });
